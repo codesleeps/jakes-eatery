@@ -46,3 +46,16 @@ I'm a front end developer...
 [Screenshot 2](https://user-images.githubusercontent.com/125808990/220466846-2a54301d-2422-493e-8325-bcd3121e79a6.png)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#portfolio-)
+
+## Tests - Lighthouse Scores
+
+> Desktop Score
+> 
+> ![desktopCodeSnippets](https://user-images.githubusercontent.com/125808990/224535765-40b36226-02c7-43c9-9ff5-7239925b8b1d.png)
+
+> Mobile Score
+> 
+> ![mobileCodeSnippets](https://user-images.githubusercontent.com/125808990/224535785-14e39345-da99-4d14-99f0-d565bfd57cc5.png)
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#portfolio-)
+
