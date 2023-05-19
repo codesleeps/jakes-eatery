@@ -2,6 +2,9 @@
 
 ## LEARNING CSS FLEX BOX!
 
+[![License](https://img.shields.io/packagist/l/dingo/api.svg?style=flat-square)](LICENSE)
+
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#portfolio-)
 
 # Hi, I'm Code Sleep! 
@@ -33,7 +36,6 @@ I'm a front end developer...
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
 
-[![License](https://img.shields.io/packagist/l/dingo/api.svg?style=flat-square)](LICENSE)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#portfolio-)
 
